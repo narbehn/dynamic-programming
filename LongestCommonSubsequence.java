@@ -42,6 +42,6 @@ public class LongestCommonSubsequence {
 		int m = in1.length;
 		int n = in2.length;
 		
-		System.out.println("Longest Common Sub for these is: " + lcs.lcs(in1, in2, m, n));//lcs.lcs???
+		System.out.println("Longest Common Sub for these is: " + lcs.lcs(in1, in2, m, n)); //lcs.lcs: instance_name.method
 	}
 }
