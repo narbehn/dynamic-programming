@@ -1,4 +1,4 @@
-
+//array size is amount x (amount-1) since [0] is always 1. I think
 public class CoinChange {
 	
 	public static int coinChange(int amount, int[] coins){
